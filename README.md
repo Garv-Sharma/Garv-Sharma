@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Garv Sharma
-- 💼 I am a full time Senior Project Engineer at Wipro Technologies Ltd, working as an Azure Developer in the field of Conversational AI
+- 💼 I am a full time Integrations Consultant at Sprinklr, USA working in the Managed Services team
 - 👀 I’m interested in NodeJS based application development using MEAN/MERN stack
-- 📫 You can reach me at garv24sharma@gmail.com
+- 📫 You can reach me at garv24sharma@gmail.com or garv.sharma@sprinklr.com
