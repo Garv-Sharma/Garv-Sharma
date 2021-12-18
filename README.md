@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Garv Sharma
-- 💼 I am a full time Integrations Consultant at Sprinklr, USA working in the Managed Services team
-- 👀 I’m interested in NodeJS based application development using MEAN/MERN stack
+- 👋 Hi, I’m Garv Sharma. I am 25 years old. I live in India.
+- 💼 I am a full time Technical (Integrations) Consultant at Sprinklr India Pvt Ltd
+- 👀 In my free time, I also do NodeJS based application development using MEAN/MERN stack. Watch this space for my personal website (under construction)
 - 📫 You can reach me at garv24sharma@gmail.com or garv.sharma@sprinklr.com
