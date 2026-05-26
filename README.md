@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Garv Sharma. I have 4+ years of professional web application development experience
+- 👋 Hi, I’m Garv Sharma. I have 6+ years of professional web application development experience
 - 💼 I am a full time Technical (Integrations) Consultant at Sprinklr India Pvt Ltd
 - 👀 In my free time, I also do NodeJS based application development using MEAN/MERN stack. Watch this space for my personal website (under construction)
 - 📫 You can reach me at garv24sharma@gmail.com
